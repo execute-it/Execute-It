@@ -26,7 +26,7 @@ while this way is OK'ish for theory lectures but it becomes really hard to coupe
 
 ### Some Caveats of the current way of online PRACTICAL sessions :
   * All the students do not have the same coding environment and some of them don't even have Linux installed. 
-  * If the student wants to share code or even if teacher wants to share a code, they need to send file which then needs to be run locally, hence consuming more time.
+  * If the student wants to share code or even if teacher wants to share a code, they need to send the file which then needs to be run locally, hence consuming more time.
   * Debugging and doubt solving in a code is really cumbersome and teacher cannot help student in realtime.
   * Poor network connection is the biggest hurdle of all due to which quality of share may be bad and code may not be visible clearly.
   
