@@ -41,27 +41,6 @@ while this way is OK'ish for theory lectures but it becomes really hard to coupe
   * As all communications will happen through websocktes, therefore consuming less bandwidth than current online video sessions. 
   
 ![alt text](/assets/eduthon.png "Flow")
-  
- ### Installation
-  This project uses docker. So ensure that you have Docker and Docker Compose installed on your system For installation instructions refer: https://docs.docker.com/install/
-Also, make sure that you have port `80` and `3000` open on the host
-  
-#### Building all docker files
- 1. cd to`/user-image`directory and run `docker build . -t user-image` 
- 2. cd to `/main-server` and run `docker-compose -f docker-compose.dev.yml build app`
- 
-#### Creating a bridge network
- 1. Before starting servers, create a bridge network `docker network create -d bridge executeit`
-
-#### Start the Servers
- 1. cd to `/main-server` and run `docker-compose -f docker-compose.dev.yml up`. This will start traefik, convergence, mongo-db, and main-server
- 2. Traefik will serve as reverse proxy to all the container through `http://localhost`
-
-#### Start the React Client
- 1. cd to `/main-client` and run `npm install`
- 2. Then start the server by `npm start`. Please make sure that the client is hosted on port 3000 only because the port is added on google cloud console.
- 
- Now navigate to `http://localhost:3000` and start exploring our project
  
  ### System Architecture
 
