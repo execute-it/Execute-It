@@ -4,7 +4,7 @@
 
 > This Platform is Deployed at https://executeit.ml
 
-> Presentation Link: https://github.com/AVC0706/Eduthon/blob/master/assets/Tres-Comas.pdf
+> Presentation Link: http://bit.ly/Execute-it
 
 > Youtube Video Link: https://youtu.be/xq-h6HmpOeE
 
