@@ -1,4 +1,6 @@
 # Execute It
+> This repository only contains information about the platform, Acutual source code of backend server is at https://github.com/execute-it/main-server and of frontend is at https://github.com/execute-it/execute-it-client
+
 # Realtime Code Collaboration and Code Execution Platform
 
 
