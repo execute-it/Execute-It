@@ -10,12 +10,7 @@
 
 We are planning to build a realtime code collaboration platform, which can be used as an educative aid while conducting online practical sessions.
 
-![alt text](/assets/screencapture-executeit-ml-login-2020-09-06-04_35_18.png "Login Screen")
-
-![alt text](/assets/screencapture-executeit-ml-rooms-2020-09-06-07_40_39.png "Rooms Screen")
-
-![alt text](/assets/Screenshot_20200906_095424.png "Workspace Screen")
-
+![execute-it](https://user-images.githubusercontent.com/39241098/113487347-3864b100-94d5-11eb-9a60-2dc32b37a05d.gif)
 
 ### What lead us to develop this platform ?
 
